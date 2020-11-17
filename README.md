@@ -13,7 +13,7 @@ style.css
 
 ## Installing The Game
 
-You can play the full game by going to https://pages.git.generalassemb.ly/baseigfr/project1/
+You can play the full game by going to https://baseigfr.github.io/project-1/
 Alternatively you can download the files into a directory and start the index.html file.
 
 ## How to Play
